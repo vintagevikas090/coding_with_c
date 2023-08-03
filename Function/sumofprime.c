@@ -7,7 +7,7 @@
 int primeno(int n);
 
 int main(){
-    int n, a, b, sum;\
+    int n, a, b, sum;
     sum = 0;
     printf("Enter the range of prime numbers to be added: ");
     scanf("%d %d", &a, &b);
